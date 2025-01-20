@@ -13,4 +13,4 @@ This project developed a Random Forest Classifier to recommend Smart or Ultra ce
 🪐 Jupyter Notebook
 🖖🏻 Splitting Data
 ## Installation & Usage
-* This project uses pandas, train_test_split, DecisionTreeClassifier, accuracy_score, RandomForestClassifier, and LogisticRegression.  It requires python 3.11.
+* This project uses pandas, train_test_split, DecisionTreeClassifier, accuracy_score, RandomForestClassifier, LogisticRegression, and DummyClassifier.  It requires python 3.11.
